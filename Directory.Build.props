@@ -14,11 +14,6 @@
     <PackageProjectUrl>https://github.com/LuzFaltex/LuzFaltex.ConCat</PackageProjectUrl>
     <PackageTags>LuzFaltex;ConCat;Rest;API</PackageTags>
   </PropertyGroup>
-  
-  <PropertyGroup>
-    <!-- Update Constant to match the target ConCat API version. One version per branch. -->
-    <DefineConstants>ANY</DefineConstants>
-  </PropertyGroup>
 
   <PropertyGroup>
     <ImplicitUsings>disable</ImplicitUsings>
