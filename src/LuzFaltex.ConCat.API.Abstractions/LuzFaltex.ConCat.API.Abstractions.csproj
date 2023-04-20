@@ -1,0 +1,15 @@
+<Project Sdk="Remora.Sdk">
+
+    <PropertyGroup>
+        <VersionPrefix>0.0.1</VersionPrefix>
+        <Description>Interface definitions of ConCat's API.</Description>
+        <PackageReleaseNotes>Initial Release.</PackageReleaseNotes>
+    </PropertyGroup>
+    
+    <ItemGroup>
+        <PackageReference Include="OneOf" />
+        <PackageReference Include="Remora.Rest.Core" />
+        <PackageReference Include="Remora.Results" />
+    </ItemGroup>
+
+</Project>
