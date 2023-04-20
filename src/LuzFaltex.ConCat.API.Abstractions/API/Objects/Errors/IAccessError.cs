@@ -10,12 +10,12 @@
         /// <summary>
         /// Gets a human-readable message describing the error.
         /// </summary>
-        public string Message { get; }
+        string Message { get; }
 
         /// <summary>
         /// Gets a list of permissions that are required to access the resource. May be empty or not provided
         /// if the error is not related to permissions.
         /// </summary>
-        public IOptional<IReadOnlyList<IPermission>> Permissions { get; }
+        IOptional<IReadOnlyList<IPermission>> Permissions { get; }
     }
 }

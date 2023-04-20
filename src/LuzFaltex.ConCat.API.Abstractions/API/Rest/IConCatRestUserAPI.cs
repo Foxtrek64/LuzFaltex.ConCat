@@ -6,6 +6,5 @@
     [PublicAPI]
     public class IConCatRestUserAPI
     {
-        
     }
 }

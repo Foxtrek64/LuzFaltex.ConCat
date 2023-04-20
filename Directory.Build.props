@@ -2,6 +2,7 @@
 	
   <PropertyGroup>
     <LegalAuthors>LuzFaltex Contributors</LegalAuthors>
+    <LegalEmail>support@luzfaltex.com</LegalEmail>
     <Company>LuzFaltex</Company>
     <LegalCopyrightHolder>Copyright LuzFaltex © $([System.DateTime]::Now.Year.ToString()). All rights reserved.</LegalCopyrightHolder>
   </PropertyGroup>

@@ -12,6 +12,6 @@ namespace LuzFaltex.ConCat.API.Abstractions.API.Objects.Errors
         /// <summary>
         /// Gets a base64-encoded hash representing the error.
         /// </summary>
-        public string Hash { get; }
+        string Hash { get; }
     }
 }
