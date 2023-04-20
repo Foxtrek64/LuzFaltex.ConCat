@@ -24,8 +24,4 @@
     <ImplicitUsings>disable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-	<PackageReference Include="Remora.Sdk" Version="2.1.0" />
-  </ItemGroup>
-
 </Project>
