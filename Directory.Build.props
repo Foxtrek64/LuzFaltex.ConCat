@@ -1,10 +1,10 @@
 <Project>
 	
   <PropertyGroup>
-    <LegalAuthors>LuzFaltex Contributors</LegalAuthors>
+    <LegalAuthor>LuzFaltex Contributors</LegalAuthor>
     <LegalEmail>support@luzfaltex.com</LegalEmail>
     <Company>LuzFaltex</Company>
-    <LegalCopyrightHolder>Copyright LuzFaltex © $([System.DateTime]::Now.Year.ToString()). All rights reserved.</LegalCopyrightHolder>
+    <LegalCopyrightHolder>LuzFaltex $([System.DateTime]::Now.Year.ToString()). All rights reserved.</LegalCopyrightHolder>
   </PropertyGroup>
   
   <!-- NuGet -->

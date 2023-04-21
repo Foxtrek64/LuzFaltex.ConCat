@@ -1,4 +1,4 @@
-<Project Sdk="Remora.Sdk/2.1.0">
+<Project Sdk="Remora.Sdk">
 
     <PropertyGroup>
         <VersionPrefix>0.0.1</VersionPrefix>
@@ -10,7 +10,6 @@
         <PackageReference Include="OneOf" />
         <PackageReference Include="Remora.Rest.Core" />
         <PackageReference Include="Remora.Results" />
-        <PackageReference Include="System.Text.Json" />
     </ItemGroup>
 
 </Project>

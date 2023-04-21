@@ -15,9 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionIt
 		stylecop.ruleset = stylecop.ruleset
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuzFaltex.ConCat.API.Abstractions", "src\LuzFaltex.ConCat.API.Abstractions\LuzFaltex.ConCat.API.Abstractions.csproj", "{9F7BB9E0-7B9A-4711-8D39-87C4907283E9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuzFaltex.ConCat.API", "src\LuzFaltex.ConCat.API\LuzFaltex.ConCat.API.csproj", "{CE67861D-2EEC-422E-9C0D-72461EE3D6FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuzFaltex.ConCat.API.Abstractions", "src\LuzFaltex.ConCat.API.Abstractions\LuzFaltex.ConCat.API.Abstractions.csproj", "{1ECB07A3-B546-4388-9A9F-FE3C8284DD14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,14 +25,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9F7BB9E0-7B9A-4711-8D39-87C4907283E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F7BB9E0-7B9A-4711-8D39-87C4907283E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F7BB9E0-7B9A-4711-8D39-87C4907283E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F7BB9E0-7B9A-4711-8D39-87C4907283E9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CE67861D-2EEC-422E-9C0D-72461EE3D6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CE67861D-2EEC-422E-9C0D-72461EE3D6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE67861D-2EEC-422E-9C0D-72461EE3D6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE67861D-2EEC-422E-9C0D-72461EE3D6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ECB07A3-B546-4388-9A9F-FE3C8284DD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECB07A3-B546-4388-9A9F-FE3C8284DD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECB07A3-B546-4388-9A9F-FE3C8284DD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECB07A3-B546-4388-9A9F-FE3C8284DD14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
